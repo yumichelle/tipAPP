@@ -13,7 +13,7 @@ Time spent: more than 7 hours spent in total
 
 The following **required** functionality is complete:
 
-* [ x ] User can enter a bill amount, choose a tip percentage, and see the tip and total values.
+* [x] User can enter a bill amount, choose a tip percentage, and see the tip and total values.
 
 The following **optional** features are implemented:
 * [ ] Settings page to change the default tip percentage.
@@ -24,14 +24,14 @@ The following **optional** features are implemented:
 
 The following **additional** features are implemented:
 
-- [ x ] cancel all x-button in the text field.
+- [x] cancel all x-button in the text field.
 
 ## Video Walkthrough 
 
 Here's a walkthrough of implemented user stories:
 
 <img src='https://imgur.com/a/Gop4XRW/tip.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/Gop4XRW"><a href="//imgur.com/Gop4XRW"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 
 ## Notes

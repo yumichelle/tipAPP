@@ -2,7 +2,7 @@
 a very basic Tip Calculator iOS app.
 Future plan:
 * [ ] Add a Settings Screen to the Tip Calculator
-* [ ] Extend app, improve UI, add features (see <a id="#User_Stories">)
+* [ ] Extend app, improve UI, add features (see <a id="#user-stories">)
 
 # Pre-work - tip
 

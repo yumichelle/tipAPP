@@ -30,13 +30,13 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://imgur.com/a/Gop4XRW/tip.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/Gop4XRW"><a href="//imgur.com/Gop4XRW"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+<img src='https://github.com/yumichelle/tipAPP/blob/master/tip.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 
 ## Notes
 
 Felt <a href="http://y2u.be/lyR8w6zmxVc">this video walkthrough</a> was outdated since the current version of Xcode is at 10, so I had to also follow <a href="https://www.youtube.com/watch?v=Ni_FMKmnhZA">this video walkthrough</a>. Plus when I followed the CodePath walkthrough and ran the simulator, it took too long to run and compile. I was stuck on a white screen for a long time, which is part of the reason why it took me more than 7 hours to finish this project.
+I also have trouble submitting the project via Terminal.
 
 ## License
 

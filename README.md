@@ -1,5 +1,8 @@
 # tipAPP
 a very basic Tip Calculator iOS app.
+Future plan:
+* [ ] Add a Settings Screen to the Tip Calculator
+* [ ] Extend app, improve UI, add features (see ## User Stories)
 
 # Pre-work - tip
 
